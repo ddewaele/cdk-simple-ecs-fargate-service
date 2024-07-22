@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=949508759827:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=949508759827:domainName=my-tst-playground.com:region=eu-central-1": {
+    "Id": "/hostedzone/Z10358411VIM0JFAU8TF8",
+    "Name": "my-tst-playground.com."
+  }
+}
